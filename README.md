@@ -1,8 +1,14 @@
 ![profile-picture](Buisness Proffessional.jpeg)
 
-This site is a log of my journey through the Code Fellows program on my way to becoming a software developer. It will also serve as my own quick reference guide moving forward into future courses. 
+This site is a log of my journey through the Code Fellows program on my way to becoming a software developer. It will also serve as my own quick reference guide moving forward into future courses. It is my hope that others may also find this site useful as they embark on their own journey in software development. 
 
 ## Reading-Notes-Index
+
+[html-notes](html-topics)
+
+[css-notes](css-topics)
+
+[javascript-notes](js-topics)
  
 ```
 Notes are categorized by topic, each topic has it's own index page linking to various subjects within. the first link in each index will return you to this page. 
