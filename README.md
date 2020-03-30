@@ -4,6 +4,8 @@ This site is a log of my journey through the Code Fellows program on my way to b
 
 ## Reading-Notes-Index
 
+[class-01-markdown](class-01.md)
+
 [html-notes](html-topics)
 
 [css-notes](css-topics)
