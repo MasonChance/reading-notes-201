@@ -4,7 +4,9 @@ This site is a log of my journey through the Code Fellows program on my way to b
 
 ## Reading-Notes-Index
 
-[class-01-markdown](class-01.md)
+[class-01-markdown](class-daily-sum/class-01.md)
+
+[class-02-markdown](class-daily-sum/class-02.md)
 
 [html-notes](html-topics)
 
