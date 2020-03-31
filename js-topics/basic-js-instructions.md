@@ -1,6 +1,6 @@
 # Basic JS Syntax and Instructions
 
-We talked about computers approching problems differently than a human would in our general overview [JS-Index](js-topics/js-index.md): 
+We talked about computers approching problems differently than a human would in our general overview [JS-Index](/reading-notes-201/js-topics/js-index): 
 
 `...If you've ever been in a position to train a person how to do a task you were probably able to get by with giving general instructions and trusting them to use their own judgement about details. This generally is ok because most of us have common frames of reference. Computers do not have any frames of reference, imagine trying to teach someone how to cook something; But they don't know what a pan is, or a stove is or what the qualities or properties of those things were, so then you have to teach them about those before you can teach them about that...`
 

@@ -10,7 +10,7 @@ There are many statements and comparisons that can be made about variables and t
 
 Conditions are usually set in an "if this than do this, otherwise do this instead" format. 
 
-![Anatomy-of-conditionalCode](js-topics/Anatomy of conditional Code.png)
+![Anatomy-of-conditionalCode](/reading-notes-201/js-topics/Anatomy of conditional Code.png)
 
 something occurs called an event. values of that event are compared with the expected value, a decision about which code to run next is made based on that comparison and the script either continues down the list or terminates depending on weather the correct conditions were satisfied. 
 
