@@ -2,11 +2,11 @@
 
 ## What is CSS and How does it Work
 
-"CSS" is an acronym for Cascading Style Sheet; It allows us to control how a page looks to the user by creating rules that the browser will follow for rendering each element of an HTML document. As we referenced in the [HTML-Section](html-topics/html-index.md) each element has default attributes that can be modified within its opening tag. CSS allows us to modify those elements more globaly so that we don't have to go to each individual element and copy paste; which leaves a lot of room for error and is time consuming. Think of CSS as a pre-packaged costume that you would get from the store and then dress the body of your web-page in, with the option to add extra accessories to make it your own. 
+"CSS" is an acronym for Cascading Style Sheet; It allows us to control how a page looks to the user by creating rules that the browser will follow for rendering each element of an HTML document. As we referenced in the [HTML-Section](/reading-notes-201/html-topics/html-index.md) each element has default attributes that can be modified within its opening tag. CSS allows us to modify those elements more globaly so that we don't have to go to each individual element and copy paste; which leaves a lot of room for error and is time consuming. Think of CSS as a pre-packaged costume that you would get from the store and then dress the body of your web-page in, with the option to add extra accessories to make it your own. 
 
 To create our costume we first need to understand it's parts and how intricate we want it to be. Let's start with the similarities in the syntax of CSS as compared to HTML. First as always is scope, most html elements have a general or global scope that is then altered by nesting them inside other elements. CSS will always apply the attributes listed for a given element to all elements within it unless specifically told otherwise. When designing our CSS it is important to bear this in mind. Secondly, is the use of "open and close" signifiers so that the browser knows which attributes you are applying to which element; In CSS the "open and close tag" is the use of curly braces `{}`. The final siginificant similarity is the way that attributes are declared and given a value 
 
-![css-syntax-diagram](/css-topics/css-diagrams/css-syntax-dia.png)
+![css-syntax-diagram](/reading-notes-201/css-topics/css-diagrams/css-syntax-dia.png)
 
 There are selectors that allow you to target elements more specifically as well such as `.class` and `#id` you may use [CSS Reference](https://www.w3schools.com/cssref/css_selectors.asp) at https://www.w3schools.com/default.asp for descriptive list of CSS selectors and their usage. 
 
