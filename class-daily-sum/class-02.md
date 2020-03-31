@@ -10,11 +10,11 @@
 
 ###### CSS Syntax Diagram
 
-![Syntax-diagram](css-topics/css-diagrams/css-syntax-dia.png/)
+![Syntax-diagram](/css-topics/css-diagrams/css-syntax-dia.png)
 
 ###### Box-Model Diagram
 
-![Box-Model](css-topics/css-diagrams/css-box-model.png/)
+![Box-Model](/css-topics/css-diagrams/css-box-model.png)
 
 
 ### [JavaScript Basic Instructions](js-topics/basic-js-instructions.md/)
