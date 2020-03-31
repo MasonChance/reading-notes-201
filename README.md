@@ -1,6 +1,6 @@
 ![profile-picture](Buisness Proffessional.jpeg)
 
-This site is a log of my journey through the Code Fellows program on my way to becoming a software developer. It will also serve as my own quick reference guide moving forward into future courses. It is my hope that others may also find this site useful as they embark on their own journey in software development. 
+This site is a log of my journey through the Code Fellows program on my way to becoming a software developer. It will also serve as my own quick reference guide moving forward into future courses. It is my hope that others may also find this site useful as they embark on their own journey in software development. Notes are based on material from the Html,Css, and javascript/jquery books by Jon Duckett. 
 
 ## Reading-Notes-Index
 
