@@ -8,11 +8,11 @@ This site is a log of my journey through the Code Fellows program on my way to b
 
 [class-02-markdown](class-daily-sum/class-02.md)
 
-[html-notes](html-topics)
+[html-notes](html-topics/html-index.md)
 
-[css-notes](css-topics)
+[css-notes](css-topics/css-index.md)
 
-[javascript-notes](js-topics)
+[javascript-notes](js-topics/js-index.md)
  
 ```
 Notes are categorized by topic, each topic has it's own index page linking to various subjects within. the first link in each index will return you to this page. 
