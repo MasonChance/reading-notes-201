@@ -4,15 +4,17 @@ This site is a log of my journey through the Code Fellows program on my way to b
 
 ## Reading-Notes-Index
 
-[class-01-markdown](class-daily-sum/class-01.md)
+[class-01-markdown](class-daily-sum/class-01)
 
-[class-02-markdown](class-daily-sum/class-02.md)
+[class-02-markdown](class-daily-sum/class-02)
 
-[html-notes](html-topics/html-index.md)
+[class-03-markdown](class-daily-sum/class-03)
 
-[css-notes](css-topics/css-index.md)
+[html-notes](html-topics/html-index)
 
-[javascript-notes](js-topics/js-index.md)
+[css-notes](css-topics/css-index)
+
+[javascript-notes](js-topics/js-index)
  
 ```
 Notes are categorized by topic, each topic has it's own index page linking to various subjects within. the first link in each index will return you to this page. 
