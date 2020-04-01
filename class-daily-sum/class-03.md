@@ -26,5 +26,7 @@ you can also add images and shadows to the box and change its apparent shape. fo
 a switch statement allows us to set multiple conditions with different outcomes based on input flow and how each successive condition is evaluated. Switch statements function similarily to `if` and `else if` statements but create a default value that runs uless a condition is met. starting with a switch variable the switch value is set. 
 
 **for** loop. use this if you know the specific number of times you need the code to run. 
+
 **while** loop. use this if you do not know how many times the code should run. 
+
 **do while** is like the *while* loop but will always run each peice of code at least once even if condition evaluates false. in this case the statements are made ***before the condition is declared***
