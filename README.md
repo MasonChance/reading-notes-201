@@ -20,6 +20,8 @@ This site is a log of my journey through the Code Fellows program on my way to b
 
 [class-08-markdown](class-daily-sum/class-08)
 
+[class-09-markdown](class-daily-sum/class-09)
+
 [html-notes](html-topics/html-index)
 
 [css-notes](css-topics/css-index)
