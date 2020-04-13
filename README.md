@@ -24,6 +24,8 @@ This site is a log of my journey through the Code Fellows program on my way to b
 
 [class-10-markdown](class-daily-sum/class-10)
 
+[class-11-markdown](class-daily-sum/class-11)
+
 [html-notes](html-topics/html-index)
 
 [css-notes](css-topics/css-index)
