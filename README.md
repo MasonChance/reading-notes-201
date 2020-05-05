@@ -37,6 +37,9 @@ This site is a log of my journey through the Code Fellows program on my way to b
 [css-notes](css-topics/css-index)
 
 [javascript-notes](js-topics/js-index)
+
+
+[responsive Web-design](301-reading/responsive design)
  
 ```
 Notes are categorized by topic, each topic has it's own index page linking to various subjects within. the first link in each index will return you to this page. 
