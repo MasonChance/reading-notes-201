@@ -50,6 +50,8 @@ This site is a log of my journey through the Code Fellows program on my way to b
 
 [heroku-deployment](301-reading/heroku deployment)
 
+[node-express](301-reading/node-express)
+
 ```
 Notes are categorized by topic, each topic has it's own index page linking to various subjects within. the first link in each index will return you to this page. 
 
