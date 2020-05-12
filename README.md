@@ -52,6 +52,8 @@ This site is a log of my journey through the Code Fellows program on my way to b
 
 [node-express](301-reading/node-express)
 
+[more on APIs](301-reading/more-apis)
+
 ```
 Notes are categorized by topic, each topic has it's own index page linking to various subjects within. the first link in each index will return you to this page. 
 
