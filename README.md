@@ -56,6 +56,8 @@ This site is a log of my journey through the Code Fellows program on my way to b
 
 [sql and postgress](301-reading/sql-postgress)
 
+[functional programming](301-reading/functional-prog)
+
 
 ```
 Notes are categorized by topic, each topic has it's own index page linking to various subjects within. the first link in each index will return you to this page. 
