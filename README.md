@@ -62,6 +62,8 @@ This site is a log of my journey through the Code Fellows program on my way to b
 
 [EJS Partials](301-reading/ejs-layouts)
 
+[Divers Inclusion](301-reading/diversity-inclusion)
+
 
 ```
 Notes are categorized by topic, each topic has it's own index page linking to various subjects within. the first link in each index will return you to this page. 
